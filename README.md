@@ -4,7 +4,7 @@ Emulador de Nintendo DS Lite que actúa como Pokédex, al proporcionar la inform
 ###
 
 <div align="center">
-  <img align="center" height="220" src="https://raw.githubusercontent.com/joaquinvictorias/Nintendo_DS_Lite_Pokedex/main/NintendoDSLite.png"  />
+  <img align="center" height="500" src="https://raw.githubusercontent.com/joaquinvictorias/Nintendo_DS_Lite_Pokedex/main/NintendoDSLite.png"  />
 </div>
 
 ###
