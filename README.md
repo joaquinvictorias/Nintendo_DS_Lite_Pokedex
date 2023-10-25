@@ -1,5 +1,5 @@
 # Nintendo_DS_Lite_Pokedex
-Emulador de Nintendo DS Lite que actúa como Pokédex. Proporciona información relativa al Pokémon seleccionado, proveniente de la [PokéAPI](https://pokeapi.co/).
+Emulador de Nintendo DS Lite que actúa como Pokédex. Proporciona información relativa al Pokémon seleccionado, proveniente de la <a href="https://pokeapi.co/" target="_blank">PokéAPI</a>.
 
 **Instalar todos los paquetes desde un archivo requirements.txt usando pip y Python:**<br>
 ```pip install -r requirements.txt```
